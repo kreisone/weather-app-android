@@ -1,0 +1,4 @@
+#Tue Mar 20 13:48:07 OMST 2018
+base.0=/mnt/68B81047B81015E2/Study/Univercity/2 course/JAVA/CourseProjectWidgetWeather/WRatesPlus2/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

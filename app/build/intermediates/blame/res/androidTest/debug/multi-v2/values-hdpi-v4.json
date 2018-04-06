@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "/mnt/68B81047B81015E2/Study/Univercity/2 course/JAVA/CourseProjectWidgetWeather/WRatesPlus2/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-hdpi-v4/values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "/home/aviro/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/0df9df16000e925e19e9945558ad616e/res/values-hdpi-v4/values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:id="@+id/main_window">
+    <TextView
+        android:id="@+id/temperature"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#a7ff9100"
+        android:gravity="center"
+        android:text="Обновить погоду"
+        android:textColor="#000"
+        android:textSize="18sp">
+    </TextView>
+
+    <TextView
+        android:id="@+id/time_temp_update"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="65sp"
+        android:layout_marginLeft="15sp"
+        android:gravity="end"
+        android:text="@string/time_temp_update"
+        android:textColor="#000"
+        android:textSize="12sp"></TextView>
+
+    <ImageView
+        android:id="@+id/weather_icon"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignStart="@+id/time_temp_update"
+        android:layout_marginTop="15dp"
+        android:contentDescription="weather_icon"
+        android:maxHeight="40sp"
+        android:maxWidth="40sp"
+        android:minHeight="40sp"
+        android:minWidth="40sp"
+        app:srcCompat="@android:color/transparent" />
+
+
+</RelativeLayout>

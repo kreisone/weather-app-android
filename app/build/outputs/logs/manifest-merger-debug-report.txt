@@ -1,0 +1,222 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /mnt/68B81047B81015E2/Study/Univercity/2 course/JAVA/CourseProjectWidgetWeather/WRatesPlus2/app/src/main/AndroidManifest.xml:2:1-50:12
+INJECTED from /mnt/68B81047B81015E2/Study/Univercity/2 course/JAVA/CourseProjectWidgetWeather/WRatesPlus2/app/src/main/AndroidManifest.xml:2:1-50:12
+INJECTED from /mnt/68B81047B81015E2/Study/Univercity/2 course/JAVA/CourseProjectWidgetWeather/WRatesPlus2/app/src/main/AndroidManifest.xml:2:1-50:12
+INJECTED from /mnt/68B81047B81015E2/Study/Univercity/2 course/JAVA/CourseProjectWidgetWeather/WRatesPlus2/app/src/main/AndroidManifest.xml:2:1-50:12
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/aviro/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/0df9df16000e925e19e9945558ad616e/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0] /home/aviro/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.0.aar/73c430d04d24e21b92535952b91f26cf/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:25.3.1] /home/aviro/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/259a0cd65532dc44d8cf16ad71349194/AndroidManifest.xml:17:1-31:12
+MERGED from [org.osmdroid:osmdroid-android:6.0.1] /home/aviro/.gradle/caches/transforms-1/files-1.1/osmdroid-android-6.0.1.aar/9ada2f5e3a35d4f84176be2c1c015fe2/AndroidManifest.xml:2:1-29:12
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/aviro/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/9076772ecbfc81ae210fbfbacf4db573/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/aviro/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/aac3c225ca1355fca6a9e42099ce884b/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-fragment:25.3.1] /home/aviro/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/8a73d31f2f63a67a732823dbb655db07/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/aviro/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/d5eff72f99494e363d524134269725f8/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/aviro/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/6d6c9f090e566bae55f7c22dafde4612/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/aviro/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/c67b9886bd4d419aedc8a5f3f4d10cbf/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:25.3.1] /home/aviro/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/b584c371f832473f61f7bc48b29a49df/AndroidManifest.xml:17:1-31:12
+INJECTED from /mnt/68B81047B81015E2/Study/Univercity/2 course/JAVA/CourseProjectWidgetWeather/WRatesPlus2/app/src/main/AndroidManifest.xml:2:1-50:12
+INJECTED from /mnt/68B81047B81015E2/Study/Univercity/2 course/JAVA/CourseProjectWidgetWeather/WRatesPlus2/app/src/main/AndroidManifest.xml:2:1-50:12
+INJECTED from /mnt/68B81047B81015E2/Study/Univercity/2 course/JAVA/CourseProjectWidgetWeather/WRatesPlus2/app/src/main/AndroidManifest.xml:2:1-50:12
+	package
+		ADDED from /mnt/68B81047B81015E2/Study/Univercity/2 course/JAVA/CourseProjectWidgetWeather/WRatesPlus2/app/src/main/AndroidManifest.xml:3:11-39
+		INJECTED from /mnt/68B81047B81015E2/Study/Univercity/2 course/JAVA/CourseProjectWidgetWeather/WRatesPlus2/app/src/main/AndroidManifest.xml
+		INJECTED from /mnt/68B81047B81015E2/Study/Univercity/2 course/JAVA/CourseProjectWidgetWeather/WRatesPlus2/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /mnt/68B81047B81015E2/Study/Univercity/2 course/JAVA/CourseProjectWidgetWeather/WRatesPlus2/app/src/main/AndroidManifest.xml
+		ADDED from /mnt/68B81047B81015E2/Study/Univercity/2 course/JAVA/CourseProjectWidgetWeather/WRatesPlus2/app/src/main/AndroidManifest.xml:2:1-50:12
+		INJECTED from /mnt/68B81047B81015E2/Study/Univercity/2 course/JAVA/CourseProjectWidgetWeather/WRatesPlus2/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /mnt/68B81047B81015E2/Study/Univercity/2 course/JAVA/CourseProjectWidgetWeather/WRatesPlus2/app/src/main/AndroidManifest.xml
+		ADDED from /mnt/68B81047B81015E2/Study/Univercity/2 course/JAVA/CourseProjectWidgetWeather/WRatesPlus2/app/src/main/AndroidManifest.xml:2:1-50:12
+		INJECTED from /mnt/68B81047B81015E2/Study/Univercity/2 course/JAVA/CourseProjectWidgetWeather/WRatesPlus2/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /mnt/68B81047B81015E2/Study/Univercity/2 course/JAVA/CourseProjectWidgetWeather/WRatesPlus2/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /mnt/68B81047B81015E2/Study/Univercity/2 course/JAVA/CourseProjectWidgetWeather/WRatesPlus2/app/src/main/AndroidManifest.xml:5:5-66
+	android:name
+		ADDED from /mnt/68B81047B81015E2/Study/Univercity/2 course/JAVA/CourseProjectWidgetWeather/WRatesPlus2/app/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /mnt/68B81047B81015E2/Study/Univercity/2 course/JAVA/CourseProjectWidgetWeather/WRatesPlus2/app/src/main/AndroidManifest.xml:6:5-78
+	android:name
+		ADDED from /mnt/68B81047B81015E2/Study/Univercity/2 course/JAVA/CourseProjectWidgetWeather/WRatesPlus2/app/src/main/AndroidManifest.xml:6:22-76
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /mnt/68B81047B81015E2/Study/Univercity/2 course/JAVA/CourseProjectWidgetWeather/WRatesPlus2/app/src/main/AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from /mnt/68B81047B81015E2/Study/Univercity/2 course/JAVA/CourseProjectWidgetWeather/WRatesPlus2/app/src/main/AndroidManifest.xml:7:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /mnt/68B81047B81015E2/Study/Univercity/2 course/JAVA/CourseProjectWidgetWeather/WRatesPlus2/app/src/main/AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from /mnt/68B81047B81015E2/Study/Univercity/2 course/JAVA/CourseProjectWidgetWeather/WRatesPlus2/app/src/main/AndroidManifest.xml:8:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /mnt/68B81047B81015E2/Study/Univercity/2 course/JAVA/CourseProjectWidgetWeather/WRatesPlus2/app/src/main/AndroidManifest.xml:9:5-80
+	android:name
+		ADDED from /mnt/68B81047B81015E2/Study/Univercity/2 course/JAVA/CourseProjectWidgetWeather/WRatesPlus2/app/src/main/AndroidManifest.xml:9:22-77
+uses-feature#0x00020000
+ADDED from /mnt/68B81047B81015E2/Study/Univercity/2 course/JAVA/CourseProjectWidgetWeather/WRatesPlus2/app/src/main/AndroidManifest.xml:11:5-13:34
+	android:glEsVersion
+		ADDED from /mnt/68B81047B81015E2/Study/Univercity/2 course/JAVA/CourseProjectWidgetWeather/WRatesPlus2/app/src/main/AndroidManifest.xml:12:9-41
+	android:required
+		ADDED from /mnt/68B81047B81015E2/Study/Univercity/2 course/JAVA/CourseProjectWidgetWeather/WRatesPlus2/app/src/main/AndroidManifest.xml:13:9-32
+application
+ADDED from /mnt/68B81047B81015E2/Study/Univercity/2 course/JAVA/CourseProjectWidgetWeather/WRatesPlus2/app/src/main/AndroidManifest.xml:15:5-48:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/aviro/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/0df9df16000e925e19e9945558ad616e/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/aviro/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/0df9df16000e925e19e9945558ad616e/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0] /home/aviro/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.0.aar/73c430d04d24e21b92535952b91f26cf/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0] /home/aviro/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.0.aar/73c430d04d24e21b92535952b91f26cf/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /home/aviro/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/259a0cd65532dc44d8cf16ad71349194/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /home/aviro/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/259a0cd65532dc44d8cf16ad71349194/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/aviro/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/9076772ecbfc81ae210fbfbacf4db573/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/aviro/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/9076772ecbfc81ae210fbfbacf4db573/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/aviro/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/aac3c225ca1355fca6a9e42099ce884b/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/aviro/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/aac3c225ca1355fca6a9e42099ce884b/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /home/aviro/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/8a73d31f2f63a67a732823dbb655db07/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /home/aviro/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/8a73d31f2f63a67a732823dbb655db07/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/aviro/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/d5eff72f99494e363d524134269725f8/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/aviro/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/d5eff72f99494e363d524134269725f8/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/aviro/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/6d6c9f090e566bae55f7c22dafde4612/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/aviro/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/6d6c9f090e566bae55f7c22dafde4612/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/aviro/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/c67b9886bd4d419aedc8a5f3f4d10cbf/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/aviro/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/c67b9886bd4d419aedc8a5f3f4d10cbf/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /home/aviro/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/b584c371f832473f61f7bc48b29a49df/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /home/aviro/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/b584c371f832473f61f7bc48b29a49df/AndroidManifest.xml:29:5-20
+	android:supportsRtl
+		ADDED from /mnt/68B81047B81015E2/Study/Univercity/2 course/JAVA/CourseProjectWidgetWeather/WRatesPlus2/app/src/main/AndroidManifest.xml:18:9-35
+	android:label
+		ADDED from /mnt/68B81047B81015E2/Study/Univercity/2 course/JAVA/CourseProjectWidgetWeather/WRatesPlus2/app/src/main/AndroidManifest.xml:17:9-41
+	android:icon
+		ADDED from /mnt/68B81047B81015E2/Study/Univercity/2 course/JAVA/CourseProjectWidgetWeather/WRatesPlus2/app/src/main/AndroidManifest.xml:16:9-43
+	android:theme
+		ADDED from /mnt/68B81047B81015E2/Study/Univercity/2 course/JAVA/CourseProjectWidgetWeather/WRatesPlus2/app/src/main/AndroidManifest.xml:19:9-40
+meta-data#com.google.android.geo.API_KEY
+ADDED from /mnt/68B81047B81015E2/Study/Univercity/2 course/JAVA/CourseProjectWidgetWeather/WRatesPlus2/app/src/main/AndroidManifest.xml:21:9-23:70
+	android:value
+		ADDED from /mnt/68B81047B81015E2/Study/Univercity/2 course/JAVA/CourseProjectWidgetWeather/WRatesPlus2/app/src/main/AndroidManifest.xml:23:13-68
+	android:name
+		ADDED from /mnt/68B81047B81015E2/Study/Univercity/2 course/JAVA/CourseProjectWidgetWeather/WRatesPlus2/app/src/main/AndroidManifest.xml:22:13-58
+activity#kz.proffix4.wrates.MainActivity
+ADDED from /mnt/68B81047B81015E2/Study/Univercity/2 course/JAVA/CourseProjectWidgetWeather/WRatesPlus2/app/src/main/AndroidManifest.xml:25:9-30:20
+	android:name
+		ADDED from /mnt/68B81047B81015E2/Study/Univercity/2 course/JAVA/CourseProjectWidgetWeather/WRatesPlus2/app/src/main/AndroidManifest.xml:25:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /mnt/68B81047B81015E2/Study/Univercity/2 course/JAVA/CourseProjectWidgetWeather/WRatesPlus2/app/src/main/AndroidManifest.xml:26:13-29:29
+action#android.intent.action.MAIN
+ADDED from /mnt/68B81047B81015E2/Study/Univercity/2 course/JAVA/CourseProjectWidgetWeather/WRatesPlus2/app/src/main/AndroidManifest.xml:27:17-68
+	android:name
+		ADDED from /mnt/68B81047B81015E2/Study/Univercity/2 course/JAVA/CourseProjectWidgetWeather/WRatesPlus2/app/src/main/AndroidManifest.xml:27:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /mnt/68B81047B81015E2/Study/Univercity/2 course/JAVA/CourseProjectWidgetWeather/WRatesPlus2/app/src/main/AndroidManifest.xml:28:17-76
+	android:name
+		ADDED from /mnt/68B81047B81015E2/Study/Univercity/2 course/JAVA/CourseProjectWidgetWeather/WRatesPlus2/app/src/main/AndroidManifest.xml:28:27-74
+receiver#kz.proffix4.wrates.WeatherWidget
+ADDED from /mnt/68B81047B81015E2/Study/Univercity/2 course/JAVA/CourseProjectWidgetWeather/WRatesPlus2/app/src/main/AndroidManifest.xml:32:9-45:20
+	android:label
+		ADDED from /mnt/68B81047B81015E2/Study/Univercity/2 course/JAVA/CourseProjectWidgetWeather/WRatesPlus2/app/src/main/AndroidManifest.xml:35:13-45
+	android:icon
+		ADDED from /mnt/68B81047B81015E2/Study/Univercity/2 course/JAVA/CourseProjectWidgetWeather/WRatesPlus2/app/src/main/AndroidManifest.xml:34:13-49
+	android:name
+		ADDED from /mnt/68B81047B81015E2/Study/Univercity/2 course/JAVA/CourseProjectWidgetWeather/WRatesPlus2/app/src/main/AndroidManifest.xml:33:13-42
+intent-filter#android.appwidget.action.APPWIDGET_UPDATE
+ADDED from /mnt/68B81047B81015E2/Study/Univercity/2 course/JAVA/CourseProjectWidgetWeather/WRatesPlus2/app/src/main/AndroidManifest.xml:36:13-40:29
+action#android.appwidget.action.APPWIDGET_UPDATE
+ADDED from /mnt/68B81047B81015E2/Study/Univercity/2 course/JAVA/CourseProjectWidgetWeather/WRatesPlus2/app/src/main/AndroidManifest.xml:37:17-39:26
+	android:name
+		ADDED from /mnt/68B81047B81015E2/Study/Univercity/2 course/JAVA/CourseProjectWidgetWeather/WRatesPlus2/app/src/main/AndroidManifest.xml:38:21-77
+meta-data#android.appwidget.provider
+ADDED from /mnt/68B81047B81015E2/Study/Univercity/2 course/JAVA/CourseProjectWidgetWeather/WRatesPlus2/app/src/main/AndroidManifest.xml:41:13-44:25
+	android:resource
+		ADDED from /mnt/68B81047B81015E2/Study/Univercity/2 course/JAVA/CourseProjectWidgetWeather/WRatesPlus2/app/src/main/AndroidManifest.xml:43:17-56
+	android:name
+		ADDED from /mnt/68B81047B81015E2/Study/Univercity/2 course/JAVA/CourseProjectWidgetWeather/WRatesPlus2/app/src/main/AndroidManifest.xml:42:17-58
+uses-sdk
+INJECTED from /mnt/68B81047B81015E2/Study/Univercity/2 course/JAVA/CourseProjectWidgetWeather/WRatesPlus2/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /mnt/68B81047B81015E2/Study/Univercity/2 course/JAVA/CourseProjectWidgetWeather/WRatesPlus2/app/src/main/AndroidManifest.xml
+INJECTED from /mnt/68B81047B81015E2/Study/Univercity/2 course/JAVA/CourseProjectWidgetWeather/WRatesPlus2/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/aviro/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/0df9df16000e925e19e9945558ad616e/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/aviro/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/0df9df16000e925e19e9945558ad616e/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0] /home/aviro/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.0.aar/73c430d04d24e21b92535952b91f26cf/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0] /home/aviro/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.0.aar/73c430d04d24e21b92535952b91f26cf/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:25.3.1] /home/aviro/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/259a0cd65532dc44d8cf16ad71349194/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.3.1] /home/aviro/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/259a0cd65532dc44d8cf16ad71349194/AndroidManifest.xml:21:5-23:54
+MERGED from [org.osmdroid:osmdroid-android:6.0.1] /home/aviro/.gradle/caches/transforms-1/files-1.1/osmdroid-android-6.0.1.aar/9ada2f5e3a35d4f84176be2c1c015fe2/AndroidManifest.xml:7:5-9:41
+MERGED from [org.osmdroid:osmdroid-android:6.0.1] /home/aviro/.gradle/caches/transforms-1/files-1.1/osmdroid-android-6.0.1.aar/9ada2f5e3a35d4f84176be2c1c015fe2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/aviro/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/9076772ecbfc81ae210fbfbacf4db573/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/aviro/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/9076772ecbfc81ae210fbfbacf4db573/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/aviro/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/aac3c225ca1355fca6a9e42099ce884b/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/aviro/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/aac3c225ca1355fca6a9e42099ce884b/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-fragment:25.3.1] /home/aviro/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/8a73d31f2f63a67a732823dbb655db07/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.3.1] /home/aviro/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/8a73d31f2f63a67a732823dbb655db07/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/aviro/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/d5eff72f99494e363d524134269725f8/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/aviro/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/d5eff72f99494e363d524134269725f8/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/aviro/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/6d6c9f090e566bae55f7c22dafde4612/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/aviro/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/6d6c9f090e566bae55f7c22dafde4612/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/aviro/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/c67b9886bd4d419aedc8a5f3f4d10cbf/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/aviro/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/c67b9886bd4d419aedc8a5f3f4d10cbf/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] /home/aviro/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/b584c371f832473f61f7bc48b29a49df/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] /home/aviro/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/b584c371f832473f61f7bc48b29a49df/AndroidManifest.xml:21:5-23:58
+INJECTED from /mnt/68B81047B81015E2/Study/Univercity/2 course/JAVA/CourseProjectWidgetWeather/WRatesPlus2/app/src/main/AndroidManifest.xml
+INJECTED from /mnt/68B81047B81015E2/Study/Univercity/2 course/JAVA/CourseProjectWidgetWeather/WRatesPlus2/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /home/aviro/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/0df9df16000e925e19e9945558ad616e/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /mnt/68B81047B81015E2/Study/Univercity/2 course/JAVA/CourseProjectWidgetWeather/WRatesPlus2/app/src/main/AndroidManifest.xml
+		ADDED from /mnt/68B81047B81015E2/Study/Univercity/2 course/JAVA/CourseProjectWidgetWeather/WRatesPlus2/app/src/main/AndroidManifest.xml
+		INJECTED from /mnt/68B81047B81015E2/Study/Univercity/2 course/JAVA/CourseProjectWidgetWeather/WRatesPlus2/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /mnt/68B81047B81015E2/Study/Univercity/2 course/JAVA/CourseProjectWidgetWeather/WRatesPlus2/app/src/main/AndroidManifest.xml
+		ADDED from /mnt/68B81047B81015E2/Study/Univercity/2 course/JAVA/CourseProjectWidgetWeather/WRatesPlus2/app/src/main/AndroidManifest.xml
+		INJECTED from /mnt/68B81047B81015E2/Study/Univercity/2 course/JAVA/CourseProjectWidgetWeather/WRatesPlus2/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] /home/aviro/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/0df9df16000e925e19e9945558ad616e/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] /home/aviro/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/259a0cd65532dc44d8cf16ad71349194/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] /home/aviro/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/259a0cd65532dc44d8cf16ad71349194/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/aviro/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/9076772ecbfc81ae210fbfbacf4db573/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/aviro/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/9076772ecbfc81ae210fbfbacf4db573/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/aviro/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/aac3c225ca1355fca6a9e42099ce884b/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/aviro/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/aac3c225ca1355fca6a9e42099ce884b/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-fragment:25.3.1] /home/aviro/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/8a73d31f2f63a67a732823dbb655db07/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /home/aviro/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/8a73d31f2f63a67a732823dbb655db07/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/aviro/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/d5eff72f99494e363d524134269725f8/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/aviro/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/d5eff72f99494e363d524134269725f8/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/aviro/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/6d6c9f090e566bae55f7c22dafde4612/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/aviro/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/6d6c9f090e566bae55f7c22dafde4612/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/aviro/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/c67b9886bd4d419aedc8a5f3f4d10cbf/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/aviro/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/c67b9886bd4d419aedc8a5f3f4d10cbf/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /home/aviro/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/b584c371f832473f61f7bc48b29a49df/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /home/aviro/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/b584c371f832473f61f7bc48b29a49df/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /home/aviro/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/0df9df16000e925e19e9945558ad616e/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /home/aviro/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/0df9df16000e925e19e9945558ad616e/AndroidManifest.xml:26:9-47
+supports-screens
+ADDED from [org.osmdroid:osmdroid-android:6.0.1] /home/aviro/.gradle/caches/transforms-1/files-1.1/osmdroid-android-6.0.1.aar/9ada2f5e3a35d4f84176be2c1c015fe2/AndroidManifest.xml:11:5-14:40
+	android:largeScreens
+		ADDED from [org.osmdroid:osmdroid-android:6.0.1] /home/aviro/.gradle/caches/transforms-1/files-1.1/osmdroid-android-6.0.1.aar/9ada2f5e3a35d4f84176be2c1c015fe2/AndroidManifest.xml:13:9-36
+	android:normalScreens
+		ADDED from [org.osmdroid:osmdroid-android:6.0.1] /home/aviro/.gradle/caches/transforms-1/files-1.1/osmdroid-android-6.0.1.aar/9ada2f5e3a35d4f84176be2c1c015fe2/AndroidManifest.xml:14:9-37
+	android:anyDensity
+		ADDED from [org.osmdroid:osmdroid-android:6.0.1] /home/aviro/.gradle/caches/transforms-1/files-1.1/osmdroid-android-6.0.1.aar/9ada2f5e3a35d4f84176be2c1c015fe2/AndroidManifest.xml:12:9-34
+uses-feature#android.hardware.location.network
+ADDED from [org.osmdroid:osmdroid-android:6.0.1] /home/aviro/.gradle/caches/transforms-1/files-1.1/osmdroid-android-6.0.1.aar/9ada2f5e3a35d4f84176be2c1c015fe2/AndroidManifest.xml:16:5-18:36
+	android:required
+		ADDED from [org.osmdroid:osmdroid-android:6.0.1] /home/aviro/.gradle/caches/transforms-1/files-1.1/osmdroid-android-6.0.1.aar/9ada2f5e3a35d4f84176be2c1c015fe2/AndroidManifest.xml:18:9-33
+	android:name
+		ADDED from [org.osmdroid:osmdroid-android:6.0.1] /home/aviro/.gradle/caches/transforms-1/files-1.1/osmdroid-android-6.0.1.aar/9ada2f5e3a35d4f84176be2c1c015fe2/AndroidManifest.xml:17:9-57
+uses-feature#android.hardware.location.gps
+ADDED from [org.osmdroid:osmdroid-android:6.0.1] /home/aviro/.gradle/caches/transforms-1/files-1.1/osmdroid-android-6.0.1.aar/9ada2f5e3a35d4f84176be2c1c015fe2/AndroidManifest.xml:19:5-21:36
+	android:required
+		ADDED from [org.osmdroid:osmdroid-android:6.0.1] /home/aviro/.gradle/caches/transforms-1/files-1.1/osmdroid-android-6.0.1.aar/9ada2f5e3a35d4f84176be2c1c015fe2/AndroidManifest.xml:21:9-33
+	android:name
+		ADDED from [org.osmdroid:osmdroid-android:6.0.1] /home/aviro/.gradle/caches/transforms-1/files-1.1/osmdroid-android-6.0.1.aar/9ada2f5e3a35d4f84176be2c1c015fe2/AndroidManifest.xml:20:9-53
+uses-feature#android.hardware.telephony
+ADDED from [org.osmdroid:osmdroid-android:6.0.1] /home/aviro/.gradle/caches/transforms-1/files-1.1/osmdroid-android-6.0.1.aar/9ada2f5e3a35d4f84176be2c1c015fe2/AndroidManifest.xml:22:5-24:36
+	android:required
+		ADDED from [org.osmdroid:osmdroid-android:6.0.1] /home/aviro/.gradle/caches/transforms-1/files-1.1/osmdroid-android-6.0.1.aar/9ada2f5e3a35d4f84176be2c1c015fe2/AndroidManifest.xml:24:9-33
+	android:name
+		ADDED from [org.osmdroid:osmdroid-android:6.0.1] /home/aviro/.gradle/caches/transforms-1/files-1.1/osmdroid-android-6.0.1.aar/9ada2f5e3a35d4f84176be2c1c015fe2/AndroidManifest.xml:23:9-50
+uses-feature#android.hardware.wifi
+ADDED from [org.osmdroid:osmdroid-android:6.0.1] /home/aviro/.gradle/caches/transforms-1/files-1.1/osmdroid-android-6.0.1.aar/9ada2f5e3a35d4f84176be2c1c015fe2/AndroidManifest.xml:25:5-27:36
+	android:required
+		ADDED from [org.osmdroid:osmdroid-android:6.0.1] /home/aviro/.gradle/caches/transforms-1/files-1.1/osmdroid-android-6.0.1.aar/9ada2f5e3a35d4f84176be2c1c015fe2/AndroidManifest.xml:27:9-33
+	android:name
+		ADDED from [org.osmdroid:osmdroid-android:6.0.1] /home/aviro/.gradle/caches/transforms-1/files-1.1/osmdroid-android-6.0.1.aar/9ada2f5e3a35d4f84176be2c1c015fe2/AndroidManifest.xml:26:9-45
